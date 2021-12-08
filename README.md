@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com Suporte
 - 🌱 Estudando User Experience
 - 😄 Pronouns: ela/dela
-- 💬 Me encontre em: https://www.linkedin.com/in/carinesilveiraa
 
 <div align="center">
   <a href="https://github.com/carinesilveira">

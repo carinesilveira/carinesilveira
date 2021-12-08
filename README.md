@@ -1,7 +1,7 @@
-### Olá! Eu sou a Carine Silveira
+### Olá! Bem vindo ao meu espaço 😊
 
-- 🔭 Hoje trabalho com Suporte
-- 🌱 Estudando User Experience
+- 🔭 Hoje trabalho como Analista de Suporte
+- 🌱 Estudando React
 - 😄 Pronouns: ela/dela
 
 <div align="center">

@@ -1,4 +1,4 @@
-### Olá! Bem vindo ao meu espaço 😊
+![image](https://user-images.githubusercontent.com/57545864/145866962-aaaf9b6e-625c-41a0-acc1-5f85c84d561d.png) OLÁ MUNDO!!
 
 - 🔭 Hoje trabalho como Analista de Suporte
 - 🌱 Estudando React

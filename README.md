@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como Analista de Suporte
 - 🌱 Estudando React
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/carinesilveira">

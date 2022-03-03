@@ -3,7 +3,7 @@
 - 🔭 Atualmente Analista de Suporte
 - 🌱 Estudando JavaScript
 - 💻 Dev Front-end em progresso...
-- 🎓 Formada em Sistemas de Informação
+- 🎓 Sistemas de Informação
 
 
 <div align="center">

@@ -1,7 +1,6 @@
 <h1 aligh="center"><img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="30"/> Olá mundo </h1> 
 
-- 🔭 Atualmente Analista de Suporte
-- 🌱 Estudando JavaScript
+- 🔭 Atualmente Analista de Qualidade de Software
 - 💻 Dev Front-end em progresso...
 - 🎓 Sistemas de Informação
 
